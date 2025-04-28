@@ -1,12 +1,12 @@
-# 🛣️ FANG SDET Roadmap (April - December 2025)
+# 🛣️ SDET Roadmap (April - September 2025)
 
-A comprehensive 9-month roadmap to land an SDET role at top-tier companies like FAANG (Meta, Amazon, Apple, Netflix, Google) or similar caliber tech companies.
+A comprehensive 6-month roadmap to land an SDET (Software Development Engineer in Test) role at top tech companies.
 
 ---
 
 ## 🎯 Goal
 
-**Land an SDET role at a FANG or equivalent-tier tech company by December 2025.**
+**Land an SDET role by Fall 2025 (October).**
 
 ---
 
@@ -14,8 +14,9 @@ A comprehensive 9-month roadmap to land an SDET role at top-tier companies like 
 
 - **Technical Depth (Coding, DSA, System Design)**
 - **QA Automation Expertise**
-- **Tooling Proficiency (Selenium, Cypress, REST Assured, etc.)**
+- **Tooling Proficiency (Selenium, Cypress, REST Assured, Playwright, etc.)**
 - **CI/CD and DevOps Exposure**
+- **Testing Certifications (ISTQB CTFL, Selenium WebDriver)**
 - **Behavioral & Interview Readiness**
 - **Resume, Portfolio & Networking**
 
@@ -23,102 +24,82 @@ A comprehensive 9-month roadmap to land an SDET role at top-tier companies like 
 
 ## 📆 Monthly Breakdown
 
-### 📅 April – 🔍 Assessment & Foundation Setup
+### 📅 April – 🔍 Assessment & Foundations Setup
 
-- [ ] Identify 5–7 target companies (FANG, Tier-1 startups)
+- [ ] Identify 5–7 target companies
 - [ ] Audit your resume – create initial version with metrics
 - [ ] Set up GitHub repo to document progress
-- [ ] Pick a primary language (Java/Python recommended)
+- [ ] Pick a primary language (Java or Python recommended)
 - [ ] Brush up OOPs & core programming principles
-- [ ] Review basics of testing (Unit, Integration, E2E, Regression)
+- [ ] Review basics of testing: Unit, Integration, E2E, Regression
 - [ ] Build habit: 1–2 LeetCode questions/day (Easy-Medium)
+- [ ] Enroll for ISTQB CTFL study plan (exam target: August)
 
 ---
 
-### 📅 May – 💻 Data Structures & Test Automation Basics
+### 📅 May – 💻 Core Automation + DSA
 
 - [ ] DSA: Arrays, Strings, Linked Lists, Hash Maps
-- [ ] LeetCode: 30 problems
+- [ ] LeetCode: 30–40 problems
 - [ ] Learn Selenium WebDriver with Java/Python
 - [ ] Write 5+ automated UI tests (host on GitHub)
-- [ ] Study Testing Pyramid & Page Object Model
+- [ ] Study Testing Pyramid, Test Design Techniques, and Page Object Model
 - [ ] Mock 1 technical screen (record yourself)
+- [ ] Start Selenium WebDriver Certification Course (ToolsQA)
 
 ---
 
-### 📅 June – 🧪 Frameworks + API Testing
+### 📅 June – 🧪 Advanced Frameworks + API Testing
 
 - [ ] DSA: Stacks, Queues, Recursion, Sliding Window
-- [ ] LeetCode: 30–40 problems (Medium focus)
-- [ ] Create UI automation framework (TestNG + Selenium or PyTest + Selenium)
-- [ ] Learn REST APIs testing with **Postman** & **REST Assured**
-- [ ] Write test automation for a mock API (CRUD scenarios)
-- [ ] Mock 1 behavioral interview
+- [ ] Create a UI Automation Framework (TestNG + Selenium or PyTest + Selenium)
+- [ ] Learn API Testing: Postman, REST Assured basics
+- [ ] Automate API CRUD scenarios
+- [ ] Start working with JSON, XML, and API Response Validation
+- [ ] Study exploratory, ad hoc, and smoke testing techniques
+- [ ] Complete Selenium WebDriver Certification exam (ToolsQA)
 
 ---
 
-### 📅 July – 🛠️ CI/CD + Intermediate Automation
+### 📅 July – 🛠️ CI/CD, Docker + Intermediate Topics
 
-- [ ] DSA: Trees, Heaps, Hashing
-- [ ] GitHub Action or Jenkins for CI pipelines
-- [ ] Integrate automation tests in pipeline
-- [ ] Learn Docker basics (write Dockerfile for test framework)
-- [ ] Explore Cypress or Playwright as an alternative to Selenium
-- [ ] Pair programming & interview with peer (mock sessions)
+- [ ] DSA: Trees, Heaps, Two Pointers
+- [ ] Setup CI pipeline with GitHub Actions or Jenkins
+- [ ] Integrate tests into CI pipeline
+- [ ] Learn basic Docker concepts (write Dockerfile for test framework)
+- [ ] Explore Cypress or Playwright basics (choose one)
+- [ ] Pair programming & mock technical interviews
+- [ ] Prepare for ISTQB CTFL exam (exam at end of July or early August)
 
 ---
 
-### 📅 August – ⚙️ System Design + Load Testing
+### 📅 August – ⚙️ System Design, Load Testing, Certifications
 
 - [ ] DSA: Graphs, Greedy, Backtracking
-- [ ] System Design for SDETs: Logging, Monitoring, Test Strategy Design
-- [ ] Intro to JMeter or Locust for Load/Stress Testing
-- [ ] Design test strategy for a high-level product (e.g., e-commerce checkout)
-- [ ] Continue LeetCode (focus on time/space trade-offs)
-- [ ] Mock Interviews: 1 Technical, 1 Behavioral, 1 System Design
+- [ ] System Design Concepts for SDETs: Test Strategy Design, Logging, Monitoring
+- [ ] Load/Performance Testing: Learn JMeter or Locust
+- [ ] Build test plan for high-level system (e-commerce checkout, social app)
+- [ ] Take ISTQB CTFL Certification exam
+- [ ] Attend a QA/Testing webinar or virtual conference
+- [ ] Mock interviews: 2 Technical, 1 Behavioral, 1 System Design
 
 ---
 
-### 📅 September – 🧠 Deepen QA Mindset
+### 📅 September – 🧠 Final Polish + Applications
 
 - [ ] Learn BDD with Cucumber
-- [ ] Explore Test Reporting Tools (Allure, ExtentReports)
-- [ ] Study real bug reports & write your own on open-source projects
-- [ ] Attend 1 QA/testing conference or webinar
-- [ ] Start contributing to testing-related open-source projects
-
----
-
-### 📅 October – 📤 Resume, Portfolio, Applications
-
-- [ ] Polish resume and LinkedIn with keyword optimization
-- [ ] Update GitHub with:
-  - Projects (automation, framework, API testing)
-  - DSA practice repo
-  - CI/CD examples
-- [ ] Create a personal blog or site (host via GitHub Pages)
-- [ ] Start cold outreach on LinkedIn to recruiters and SDETs
-- [ ] Apply to at least 30 roles
-
----
-
-### 📅 November – 🎯 Interview Season
-
-- [ ] Mock 2 full interviews per week
-- [ ] Track interview Q&A in Notion or spreadsheet
-- [ ] Use Glassdoor, Blind, LeetCode Discuss for company-specific prep
-- [ ] Practice STAR format for behavioral questions
-- [ ] Double down on system design & debugging questions
-
----
-
-### 📅 December – 🏁 Final Sprint & Offers
-
-- [ ] Continue applying + interviewing
-- [ ] Evaluate offers (use levels.fyi for benchmarking)
-- [ ] Negotiate with confidence (practice with friends)
-- [ ] Wrap up roadmap repo with final learnings
-- [ ] Celebrate! 🎉
+- [ ] Study Test Reporting Tools (Allure, ExtentReports)
+- [ ] Analyze real-world bug reports, submit bug reports on open-source projects
+- [ ] Finalize resume and LinkedIn optimization
+- [ ] Update GitHub:
+  - Automation Framework Projects
+  - API Testing Projects
+  - CI/CD Examples
+  - DSA Practice Repo
+- [ ] Create personal portfolio/blog (host via GitHub Pages or Netlify)
+- [ ] Apply to at least 30–40 SDET/QA Engineer roles
+- [ ] Practice cold outreach to recruiters
+- [ ] Prepare for October interview season!
 
 ---
 
@@ -131,38 +112,51 @@ A comprehensive 9-month roadmap to land an SDET role at top-tier companies like 
 | CI/CD | GitHub Actions, Jenkins |
 | Load Testing | JMeter, Locust |
 | Languages | Java / Python |
-| Frameworks | TestNG / PyTest, Cucumber |
+| Frameworks | TestNG / PyTest, Cucumber (BDD) |
 | DevOps | Docker, Git |
+| Reporting | Allure, ExtentReports |
 | DSA Practice | LeetCode, NeetCode, Blind75 |
+
+---
+
+## 🏆 Certifications Targeted
+
+- ✅ **ISTQB Foundation Level Certification (CTFL)** — August 2025
+- ✅ **Selenium WebDriver Certification (ToolsQA)** — June 2025
 
 ---
 
 ## 📚 Resources
 
-- LeetCode: [https://leetcode.com](https://leetcode.com)
-- Testing: Ministry of Testing, Test Automation University
-- Books: *Clean Code*, *The Art of Unit Testing*, *Designing Data-Intensive Applications*
+- [LeetCode](https://leetcode.com/)
+- [Testing Roadmap](https://roadmap.sh/qa)
+- [Test Automation University](https://testautomationu.applitools.com/)
+- Ministry of Testing
+- Books: *Clean Code*, *The Art of Unit Testing*, *Testing Computer Software*, *Designing Data-Intensive Applications*
 - Mock Interviews: Pramp, Interviewing.io, friends/mentors
 
 ---
 
 ## 🧠 Mindset Tips
 
-- Consistency > Perfection
-- Learn in public – blog, tweet, and commit!
-- Fail fast, iterate faster.
-- Don’t just automate — design quality systems.
+- **Consistency > Perfection**: A little every day beats a lot once a week.
+- **Learn in public**: Blog, tweet, and commit your journey.
+- **Fail fast, iterate faster**: Mistakes are proof you're trying.
+- **Don’t just automate — understand the product**: Be a quality advocate.
 
 ---
 
 ## ✅ Final Deliverables (for Portfolio)
 
-- [ ] UI Automation Framework
-- [ ] API Automation Project
-- [ ] CI/CD Integrated Repo
-- [ ] DSA Practice Repo
-- [ ] System Test Strategy Document
-- [ ] GitHub Profile + Blog/Site
-- [ ] Resume + LinkedIn + Cover Letter Template
+- [ ] UI Automation Framework (hosted on GitHub)
+- [ ] API Automation Project (with Postman/REST Assured)
+- [ ] CI/CD Integrated Repos (Dockerfile + GitHub Actions)
+- [ ] DSA Practice Repo (target 150+ LeetCode)
+- [ ] Test Strategy Document (for a sample app)
+- [ ] Personal Blog/Site (GitHub Pages or Netlify)
+- [ ] Updated Resume + LinkedIn + Cover Letter Template
 
 ---
+
+Would you also like me to format this into a ready-to-download `.md` file you can save directly? 📄🚀  
+Would be happy to do that!
