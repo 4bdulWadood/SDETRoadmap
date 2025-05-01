@@ -26,15 +26,15 @@ A comprehensive 2-month roadmap to land an SDET (Software Development Engineer i
 
 ### 📅 Week 1 - 2 : Foundation & Core Setup
 
-- [ ] Identify 5–7 target companies & role expectations.
-- [ ] Audit your resume – create initial version with metrics
-- [ ] Pick a primary language (Java or Python recommended)
-- [ ] Brush up OOPs & core programming principles
-- [ ] Review basics of testing: Unit, Integration, E2E, Regression
-- [ ] Build habit: 1–2 LeetCode questions/day (Easy-Medium)
-- [ ] Enroll for ISTQB CTFL study plan (exam target: August)
-- [ ] Learn Selenium WebDriver basics.
-- [ ] Write 5 UI Automation Tests (host on GitHub).
+- [*] Identify 5–7 target companies & role expectations.
+- [*] Audit your resume – create initial version with metrics
+- [*] Pick a primary language (Java or Python recommended)
+- [*] Brush up OOPs & core programming principles
+- [*] Review basics of testing: Unit, Integration, E2E, Regression
+- [*] Build habit: 1–2 LeetCode questions/day (Easy-Medium)
+- [*] Enroll for ISTQB CTFL study plan (exam target: August)
+- [*] Learn Selenium WebDriver basics.
+- [*] Write 5 UI Automation Tests (host on GitHub).
 
 ---
 
