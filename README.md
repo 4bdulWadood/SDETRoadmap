@@ -1,12 +1,12 @@
-# 🛣️ SDET Roadmap (April - September 2025)
+# 🛣️ SDET Roadmap (May - June 2025)
 
-A comprehensive 6-month roadmap to land an SDET (Software Development Engineer in Test) role at top tech companies.
+A comprehensive 2-month roadmap to land an SDET (Software Development Engineer in Test) role at top tech companies.
 
 ---
 
 ## 🎯 Goal
 
-**Land an SDET role by Fall 2025 (October).**
+**Land an SDET role by June 2025.**
 
 ---
 
@@ -22,84 +22,57 @@ A comprehensive 6-month roadmap to land an SDET (Software Development Engineer i
 
 ---
 
-## 📆 Monthly Breakdown
+## 📆 Week - by - Week Breakdown
 
-### 📅 April – 🔍 Assessment & Foundations Setup
+### 📅 Week 1 - 2 : Foundation & Core Setup
 
-- [ ] Identify 5–7 target companies
+- [ ] Identify 5–7 target companies & role expectations.
 - [ ] Audit your resume – create initial version with metrics
-- [ ] Set up GitHub repo to document progress
 - [ ] Pick a primary language (Java or Python recommended)
 - [ ] Brush up OOPs & core programming principles
 - [ ] Review basics of testing: Unit, Integration, E2E, Regression
 - [ ] Build habit: 1–2 LeetCode questions/day (Easy-Medium)
 - [ ] Enroll for ISTQB CTFL study plan (exam target: August)
+- [ ] Learn Selenium WebDriver basics.
+- [ ] Write 5 UI Automation Tests (host on GitHub).
 
 ---
 
-### 📅 May – 💻 Core Automation + DSA
+### 📅 Week 3 - 4 : Automation Framework + API Testing
 
-- [ ] DSA: Arrays, Strings, Linked Lists, Hash Maps
-- [ ] LeetCode: 30–40 problems
-- [ ] Learn Selenium WebDriver with Java/Python
-- [ ] Write 5+ automated UI tests (host on GitHub)
-- [ ] Study Testing Pyramid, Test Design Techniques, and Page Object Model
-- [ ] Mock 1 technical screen (record yourself)
-- [ ] Start Selenium WebDriver Certification Course (ToolsQA)
-
----
-
-### 📅 June – 🧪 Advanced Frameworks + API Testing
-
-- [ ] DSA: Stacks, Queues, Recursion, Sliding Window
-- [ ] Create a UI Automation Framework (TestNG + Selenium or PyTest + Selenium)
-- [ ] Learn API Testing: Postman, REST Assured basics
-- [ ] Automate API CRUD scenarios
-- [ ] Start working with JSON, XML, and API Response Validation
-- [ ] Study exploratory, ad hoc, and smoke testing techniques
-- [ ] Complete Selenium WebDriver Certification exam (ToolsQA)
+- [ ] DSA: HashMaps, Stacks, Queues, Sliding Window
+- [ ] Build a UI Automation Framework (PyTest + Selenium)
+- [ ] Learn API testing with Postman & REST Assured
+- [ ] Automate API CRUD Scenarios
+- [ ] Learn JSON, XML, API Response Validation.
+- [ ] Study Test Design Techniqques, POM, and Test Pyramid.
+- [ ] Complete Selenium WebDriver Certification.
 
 ---
 
-### 📅 July – 🛠️ CI/CD, Docker + Intermediate Topics
+### 📅 Week 5 - 6 : CI/CD + Advanced Tooling
 
-- [ ] DSA: Trees, Heaps, Two Pointers
-- [ ] Setup CI pipeline with GitHub Actions or Jenkins
-- [ ] Integrate tests into CI pipeline
-- [ ] Learn basic Docker concepts (write Dockerfile for test framework)
-- [ ] Explore Cypress or Playwright basics (choose one)
-- [ ] Pair programming & mock technical interviews
-- [ ] Prepare for ISTQB CTFL exam (exam at end of July or early August)
-
----
-
-### 📅 August – ⚙️ System Design, Load Testing, Certifications
-
-- [ ] DSA: Graphs, Greedy, Backtracking
-- [ ] System Design Concepts for SDETs: Test Strategy Design, Logging, Monitoring
-- [ ] Load/Performance Testing: Learn JMeter or Locust
-- [ ] Build test plan for high-level system (e-commerce checkout, social app)
-- [ ] Take ISTQB CTFL Certification exam
-- [ ] Attend a QA/Testing webinar or virtual conference
-- [ ] Mock interviews: 2 Technical, 1 Behavioral, 1 System Design
+- [ ] DSA: Trees, Two Pointers, Recursion
+- [ ] CI/CD with GitHub Actions or Jenkins
+- [ ] Integrate tests into CI pipeline.
+- [ ] Learn Docker basics & write Dockerfile for framework.
+- [ ] Learn Cypress or laywright (choose one).
+- [ ] Start JMeter or Locus for Load Testing.
+- [ ] Pair Programming + Mock Interviews.
 
 ---
 
-### 📅 September – 🧠 Final Polish + Applications
+### 📅 Week 7 - 8 : Final Polish + Interview Prep
 
+- [ ] DSA: Graphs, Backtracking,  Greedy
 - [ ] Learn BDD with Cucumber
-- [ ] Study Test Reporting Tools (Allure, ExtentReports)
-- [ ] Analyze real-world bug reports, submit bug reports on open-source projects
-- [ ] Finalize resume and LinkedIn optimization
-- [ ] Update GitHub:
-  - Automation Framework Projects
-  - API Testing Projects
-  - CI/CD Examples
-  - DSA Practice Repo
-- [ ] Create personal portfolio/blog (host via GitHub Pages or Netlify)
-- [ ] Apply to at least 30–40 SDET/QA Engineer roles
-- [ ] Practice cold outreach to recruiters
-- [ ] Prepare for October interview season!
+- [ ] Study Test Reporting (Allure, ExtentReports).
+- [ ] Create test plan for sample app (e.g. e-commerce)
+- [ ] Take ISTQB CTFL Certification
+- [ ] Finalize Resume + LinkedIn + GitHub Portfolio
+- [ ] Launch Blob or Portfolio (GitHub Pages / Netflify).
+- [ ] Submit 30 - 40 applications.
+- [ ] Practice Cold Outreach + 4 mock interviews (2 tech, 1 behavioral, 1 system design).
 
 ---
 
@@ -158,5 +131,3 @@ A comprehensive 6-month roadmap to land an SDET (Software Development Engineer i
 
 ---
 
-Would you also like me to format this into a ready-to-download `.md` file you can save directly? 📄🚀  
-Would be happy to do that!
