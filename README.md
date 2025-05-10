@@ -28,13 +28,14 @@ A comprehensive 2-month roadmap to land an SDET (Software Development Engineer i
 
 - [*] Identify 5–7 target companies & role expectations.
 - [*] Audit your resume – create initial version with metrics
-- [*] Pick a primary language (Java or Python recommended)
+- [*] Pick a primary language (Python recommended)
 - [*] Brush up OOPs & core programming principles
 - [*] Review basics of testing: Unit, Integration, E2E, Regression
-- [*] Build habit: 1–2 LeetCode questions/day (Easy-Medium)
+- [*] Build habit: 1–2 LeetCode questions/day (Easy-Medium) (Learn Python syntax for DSA)
 - [*] Enroll for ISTQB CTFL study plan (exam target: August)
 - [*] Learn Selenium WebDriver basics.
-- [*] Write 5 UI Automation Tests (host on GitHub).
+- [*] Begin Research for project for PetClinic CI/CD Automation.
+- [*] "How Google Tests Software by James Whittaker"
 
 ---
 
@@ -45,7 +46,7 @@ A comprehensive 2-month roadmap to land an SDET (Software Development Engineer i
 - [ ] Learn API testing with Postman & REST Assured
 - [ ] Automate API CRUD Scenarios
 - [ ] Learn JSON, XML, API Response Validation.
-- [ ] Study Test Design Techniqques, POM, and Test Pyramid.
+- [ ] Study Test Design Techniques, POM, and Test Pyramid.
 - [ ] Complete Selenium WebDriver Certification.
 
 ---
