@@ -37,6 +37,8 @@ A comprehensive 2-month roadmap to land an SDET (Software Development Engineer i
 - [*] Begin Research for project for PetClinic CI/CD Automation.
 - [*] "How Google Tests Software by James Whittaker"
 - [*] Easy [75] Medium [25]
+- [*] Project Bootstrapping + Test Automation Foundation
+- [*] Reporting + Screenshot Capture + Stability
 
 ---
 
@@ -49,6 +51,8 @@ A comprehensive 2-month roadmap to land an SDET (Software Development Engineer i
 - [ ] Learn JSON, XML, API Response Validation.
 - [ ] Study Test Design Techniques, POM, and Test Pyramid.
 - [ ] Complete Selenium WebDriver Certification.
+- [ ] Reporting + Screenshot Capture + Stability
+- [ ] Flaky Test Handling + Parallel Test Execution
 
 ---
 
@@ -61,6 +65,8 @@ A comprehensive 2-month roadmap to land an SDET (Software Development Engineer i
 - [ ] Learn Cypress or laywright (choose one).
 - [ ] Start JMeter or Locus for Load Testing.
 - [ ] Pair Programming + Mock Interviews.
+- [ ] CI/CD + Artifacts + Final Polish
+- [ ] Interview Prep + Reporting + Final Integration
 
 ---
 
