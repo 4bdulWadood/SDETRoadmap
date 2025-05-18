@@ -51,12 +51,47 @@ petclinic-tests/
 ### 🐳 Option 1: Docker Compose (Fallback Setup)
 ### ☸️ Option 2: Minikube Kubernetes Setup (Preferred)
 
-🧪 Run Tests Locally
+## 🧪 Run Tests Locally
 
-🚀 CI/CD Setup
+## 🚀 CI/CD Setup
 
 # GitHub Actions
 - CI Pipeline installs dependencies, runs headless Selenium tests.
 - Artifacts (HTML reports + screenshots) are stored for each run.
 
-#
+# Jenkins (Optional)
+- Use Jenkinsfile for job configuration.
+- Leverages Docker / K8s runners for scalable parallel testing.
+
+📸 Demo & Reporting
+- 📂 Screenshots are captured for every failed test.
+- 📄 Detailed HTML reports generated via pytest-html.
+- 🎥 Loom or GIF demo walkthrough included in the repository.
+
+📘 Resources
+- Spring PetClinic
+- PyTest Documentation
+- Selenium with Python
+- GitHub Actions Docs
+
+
+| Phase                 | % Flaky Tests |
+| --------------------- | ------------- |
+| Initial               | 40%           |
+| After Fixes & Retries | < 10%         |
+
+
+
+## 🏁 Final Deliverables
+- ✅ Public GitHub Repo with MIT License
+- ✅ CI/CD Pipeline (GitHub Actions or Jenkins)
+- ✅ Flaky Tests Analysis & Retry Strategy
+- ✅ Dynamic Test Data with Faker
+- ✅ HTML Reports + Screenshot Evidence
+- ✅ Loom/GIF Demo for Showcase
+- ✅ Well-Structured README Documentation
+
+## 🙌 Contribute or Fork
+Feel free to fork, clone, or open PRs for improvements.
+This project is a demonstration of full-stack SDET capabilities and DevOps integration in automation frameworks.
+
