@@ -6,7 +6,7 @@ class Solution(object):
 
         2 Conditions need to be met to return the correct destination city.
         1. City must belong to index 1.
-        2. City must only exist once.
+        2. City must not be a starting city.
 
         Time Complexity : O(n)
         Space Complexity : O(n)
