@@ -36,7 +36,6 @@ A comprehensive 2-month roadmap to land an SDET (Software Development Engineer i
 - [*] Learn Selenium WebDriver basics.
 - [*] Begin Research for project for PetClinic CI/CD Automation.
 - [*] "How Google Tests Software by James Whittaker"
-- [*] Easy [75] Medium [25]
 - [*] Project Bootstrapping + Test Automation Foundation
 - [*] Reporting + Screenshot Capture + Stability
 
