@@ -18,17 +18,17 @@ class Solution(object):
   Space Complexity: O(n)
   Difficulty: 🟡 Medium
 ```
-
-def removeDups(head):
-    current = head
-    while current:
-        runner = current
-        while runner.next:
-            if runner.next.val == current.val:
-                runner.next = runner.next.next
-            else:
-                runner = runner.next
-        current = current.next
+class Solution(object):
+    def removeDups(head):
+        current = head
+        while current:
+            runner = current
+            while runner.next:
+                if runner.next.val == current.val:
+                    runner.next = runner.next.next
+                else:
+                    runner = runner.next
+            current = current.next
       
 ```
   Time Complexity: O(n²)
