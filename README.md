@@ -43,43 +43,43 @@ A comprehensive 2-month roadmap to land an SDET (Software Development Engineer i
 
 ### 📅 Week 3 - 4 : Automation Framework + API Testing
 
-- [ ] DSA: HashMaps, Stacks, Queues, Sliding Window
-- [ ] Build a UI Automation Framework (PyTest + Selenium)
-- [ ] Learn API testing with Postman & REST Assured
-- [ ] Automate API CRUD Scenarios
-- [ ] Learn JSON, XML, API Response Validation.
-- [ ] Study Test Design Techniques, POM, and Test Pyramid.
-- [ ] Complete Selenium WebDriver Certification.
-- [ ] Reporting + Screenshot Capture + Stability
-- [ ] Flaky Test Handling + Parallel Test Execution
+- [*] DSA: HashMaps, Stacks, Queues, Sliding Window
+- [*] Build a UI Automation Framework (PyTest + Selenium)
+- [*] Learn API testing with Postman & REST Assured
+- [*] Automate API CRUD Scenarios
+- [*] Learn JSON, XML, API Response Validation.
+- [*] Study Test Design Techniques, POM, and Test Pyramid.
+- [*] Complete Selenium WebDriver Certification.
+- [*] Reporting + Screenshot Capture + Stability
+- [*] Flaky Test Handling + Parallel Test Execution
 
 ---
 
 ### 📅 Week 5 - 6 : CI/CD + Advanced Tooling
 
-- [ ] DSA: Trees, Two Pointers, Recursion
-- [ ] CI/CD with GitHub Actions or Jenkins
-- [ ] Integrate tests into CI pipeline.
-- [ ] Learn Docker basics & write Dockerfile for framework.
-- [ ] Learn Cypress or laywright (choose one).
-- [ ] Start JMeter or Locus for Load Testing.
-- [ ] Pair Programming + Mock Interviews.
-- [ ] CI/CD + Artifacts + Final Polish
-- [ ] Interview Prep + Reporting + Final Integration
+- [*] DSA: Trees, Two Pointers, Recursion
+- [*] CI/CD with GitHub Actions or Jenkins
+- [*] Integrate tests into CI pipeline.
+- [*] Learn Docker basics & write Dockerfile for framework.
+- [*] Learn Cypress or laywright (choose one).
+- [*] Start JMeter or Locus for Load Testing.
+- [*] Pair Programming + Mock Interviews.
+- [*] CI/CD + Artifacts + Final Polish
+- [*] Interview Prep + Reporting + Final Integration
 
 ---
 
 ### 📅 Week 7 - 8 : Final Polish + Interview Prep
 
-- [ ] DSA: Graphs, Backtracking,  Greedy
-- [ ] Learn BDD with Cucumber
-- [ ] Study Test Reporting (Allure, ExtentReports).
-- [ ] Create test plan for sample app (e.g. e-commerce)
-- [ ] Take ISTQB CTFL Certification
-- [ ] Finalize Resume + LinkedIn + GitHub Portfolio
-- [ ] Launch Blob or Portfolio (GitHub Pages / Netflify).
-- [ ] Submit 30 - 40 applications.
-- [ ] Practice Cold Outreach + 4 mock interviews (2 tech, 1 behavioral, 1 system design).
+- [*] DSA: Graphs, Backtracking,  Greedy
+- [*] Learn BDD with Cucumber
+- [*] Study Test Reporting (Allure, ExtentReports).
+- [*] Create test plan for sample app (e.g. e-commerce)
+- [*] Take ISTQB CTFL Certification
+- [*] Finalize Resume + LinkedIn + GitHub Portfolio
+- [*] Launch Blob or Portfolio (GitHub Pages / Netflify).
+- [*] Submit 30 - 40 applications.
+- [*] Practice Cold Outreach + 4 mock interviews (2 tech, 1 behavioral, 1 system design).
 
 ---
 
@@ -128,13 +128,13 @@ A comprehensive 2-month roadmap to land an SDET (Software Development Engineer i
 
 ## ✅ Final Deliverables (for Portfolio)
 
-- [ ] UI Automation Framework (hosted on GitHub)
-- [ ] API Automation Project (with Postman/REST Assured)
-- [ ] CI/CD Integrated Repos (Dockerfile + GitHub Actions)
-- [ ] DSA Practice Repo (target 150+ LeetCode)
-- [ ] Test Strategy Document (for a sample app)
-- [ ] Personal Blog/Site (GitHub Pages or Netlify)
-- [ ] Updated Resume + LinkedIn + Cover Letter Template
+- [*] UI Automation Framework (hosted on GitHub)
+- [*] API Automation Project (with Postman/REST Assured)
+- [*] CI/CD Integrated Repos (Dockerfile + GitHub Actions)
+- [*] DSA Practice Repo (target 150+ LeetCode)
+- [*] Test Strategy Document (for a sample app)
+- [*] Personal Blog/Site (GitHub Pages or Netlify)
+- [*] Updated Resume + LinkedIn + Cover Letter Template
 
 ---
 
